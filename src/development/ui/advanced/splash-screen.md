@@ -48,8 +48,8 @@ part of the [Human Interface Guidelines][].
 {{site.alert.warning}}
     If you are experiencing a crash from implementing a splash screen, you
     might need to migrate your code. See detailed instructions in the
-    [Deprecated Splash Screen API Migration][].
-{{site.alert.warning}}
+    [Deprecated Splash Screen API Migration Guide][].
+{{site.alert.end}}
 
 In Android, there are two separate screens that you can control:
 a _launch screen_ shown while your Android app initializes,
@@ -67,7 +67,7 @@ initializes.
 
   If, prior to 2.5, you used `flutter create` to create an app,
   and you run the app on 2.5 or later, it can cause the app to crash.
-  For more info, see the [Deprecated Splash Screen API Migration][].
+  For more info, see the [Deprecated Splash Screen API Migration Guide][].
 {{site.alert.end}}
 
 {{site.alert.note}}
